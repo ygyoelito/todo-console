@@ -1,0 +1,2 @@
+# Notes:
+**Funny TODO Console**
